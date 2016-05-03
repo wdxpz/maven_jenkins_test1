@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+	public static int test2() {
+		// TODO Auto-generated method stub
+		return 2;
+	}
 }
